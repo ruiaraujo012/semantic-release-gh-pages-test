@@ -8,18 +8,22 @@
     "build": "pnpm build:prod",
     "build:dev": "tsc && vite build --mode development",
     "build:prod": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@types/node": "^20.2.5",
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "eslint-config-ruiaraujo-react": "^3.1.2",
+    "semantic-release": "^21.0.5",
     "typescript": "^5.0.4",
     "vite": "^4.3.1",
     "vite-plugin-checker": "^0.6.0",
