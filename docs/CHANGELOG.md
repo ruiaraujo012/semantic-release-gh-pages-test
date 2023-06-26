@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.6...v1.1.7) (2023-06-26)
+
+
+### Bug Fixes
+
+* **gh-pages:** router ([f42a001](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/f42a001fe67ce9cc2130fd81a527329c96d4e168))
+
 ## [1.1.6](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.5...v1.1.6) (2023-06-26)
 
 
