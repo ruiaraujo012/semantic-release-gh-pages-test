@@ -4,25 +4,20 @@ import Page2 from './Page2';
 import Root from './Root';
 
 const App = () => {
-  const router = createHashRouter(
-    [
-      {
-        element: <Root />,
-        path: '/',
-      },
-      {
-        element: <Page1 />,
-        path: '/page1',
-      },
-      {
-        element: <Page2 />,
-        path: '/page2',
-      },
-    ],
+  const router = createHashRouter([
     {
-      basename: import.meta.env.VITE_BASE_URL,
+      element: <Root />,
+      path: '/',
     },
-  );
+    {
+      element: <Page1 />,
+      path: '/page1',
+    },
+    {
+      element: <Page2 />,
+      path: '/page2',
+    },
+  ]);
 
   return <RouterProvider router={router} />;
 };
