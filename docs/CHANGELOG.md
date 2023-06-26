@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.0.2...v1.1.0) (2023-06-26)
+
+
+### Bug Fixes
+
+* **ci:** fix error ([ab5a2f7](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/ab5a2f7e40b0da87ca4de478c0c10ac796f9d5d9))
+
+
+### Features
+
+* **pages:** add pages and workflow setup ([0c1fddd](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/0c1fddd4ad2e160c1d7150ff3ddcd2d526b245ae))
+
 ## [1.0.2](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.0.1...v1.0.2) (2023-06-25)
 
 
