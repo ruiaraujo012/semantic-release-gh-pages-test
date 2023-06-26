@@ -71,5 +71,5 @@ jobs:
         run: |
           git config --global user.email ${{ secrets.GIT_EMAIL}}
           git config --global user.name ${{ secrets.GIT_NAME}}
-          git remote set-url origin https://github.com/ruiaraujo012:${{ secrets.GITHUB_TOKEN }}@github.com/ruiaraujo012/semantic-release-gh-pages-test.git
+          git remote set-url origin https://ruiaraujo012:${{ secrets.GITHUB_TOKEN }}@github.com/ruiaraujo012/semantic-release-gh-pages-test.git
           pnpm deploy:gh-pages
