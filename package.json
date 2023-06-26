@@ -11,8 +11,8 @@
     "build:dev": "tsc && vite build --mode development",
     "build:prod": "tsc && vite build",
     "preview": "vite preview",
-    "semantic-release": "semantic-release",
-    "deploy": "gh-pages -d build"
+    "semantic-release": "semantic-release",   
+    "deploy:gh-pages": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",

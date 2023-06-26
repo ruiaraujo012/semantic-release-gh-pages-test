@@ -67,4 +67,4 @@ jobs:
 
       - run: pnpm build
 
-      - run: pnpm deploy
+      - run: pnpm deploy:gh-pages
