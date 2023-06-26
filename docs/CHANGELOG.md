@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.12...v1.1.13) (2023-06-26)
+
+
+### Bug Fixes
+
+* **ci:** fix ([9081116](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/90811164297c517fe397a50399a89f430073c866))
+
 ## [1.1.12](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.11...v1.1.12) (2023-06-26)
 
 
