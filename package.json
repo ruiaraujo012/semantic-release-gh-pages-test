@@ -1,7 +1,7 @@
 {
   "name": "test",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": "github:ruiaraujo012/semantic-release-gh-pages-test",
   "homepage": "https://ruiaraujo012.github.io/semantic-release-gh-pages-test",
   "type": "module",
@@ -11,7 +11,7 @@
     "build:dev": "tsc && vite build --mode development",
     "build:prod": "tsc && vite build",
     "preview": "vite preview",
-    "semantic-release": "semantic-release",   
+    "semantic-release": "semantic-release",
     "deploy:gh-pages": "gh-pages -d build"
   },
   "dependencies": {
