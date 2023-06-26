@@ -67,4 +67,8 @@ jobs:
 
       - run: pnpm build
 
-      - run: pnpm deploy:gh-pages
+      - name: Deploy to gh-pages
+        run: |
+          git config --global user.email ${{ secrets.GIT_EMAIL}}
+          git config --global user.name ${{ secrets.GIT_NAME}}
+          pnpm deploy:gh-pages
