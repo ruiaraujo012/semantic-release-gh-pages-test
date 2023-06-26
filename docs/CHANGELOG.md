@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.8...v1.1.9) (2023-06-26)
+
+
+### Bug Fixes
+
+* **ci:** hash router ([c763ed1](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/c763ed15e68ef5f53dd11e60bbd7cc1ab99877a4))
+
 ## [1.1.8](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.7...v1.1.8) (2023-06-26)
 
 
