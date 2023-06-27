@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.13...v1.2.0) (2023-06-27)
+
+
+### Features
+
+* **test:** test ([d34d4c8](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/d34d4c8a11f81027ece94385a1ba32d9409720f2))
+
 ## [1.1.13](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.12...v1.1.13) (2023-06-26)
 
 
