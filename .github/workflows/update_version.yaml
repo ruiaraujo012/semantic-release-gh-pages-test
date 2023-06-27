@@ -1,4 +1,4 @@
-name: Update Version and release to gh-pages
+name: Update version and release to gh-pages
 
 on:
   push:
@@ -37,7 +37,7 @@ jobs:
 
       - run: pnpm semantic-release
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - run: pnpm build
 
