@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.2.0...v1.2.1) (2023-06-28)
+
+
+### Bug Fixes
+
+* Update update_version.yaml ([61b8fc9](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/commit/61b8fc9f24accf04a5c714a37d95c501257687f2))
+
 # [1.2.0](https://github.com/ruiaraujo012/semantic-release-gh-pages-test/compare/v1.1.13...v1.2.0) (2023-06-27)
 
 

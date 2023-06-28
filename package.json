@@ -1,7 +1,7 @@
 {
   "name": "test",
   "private": true,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "github:ruiaraujo012/semantic-release-gh-pages-test",
   "homepage": "https://ruiaraujo012.github.io/semantic-release-gh-pages-test/#",
   "type": "module",
